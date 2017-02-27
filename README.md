@@ -19,6 +19,7 @@ Open **runme.ipynb** with Jupyter and execute the code in it (Cell > Run All).
 - **./output_clips** directory where processed video clips will be written (output)
 - **./test_clips** directory containing the MP4 clips to be processed (input)
 - **./test_images** JPEG images useful to test and debug the program
-##NOTE
+
+##CREDITS
 The implementation started from a template provided by Udacity and contains some code from the template. Udacity provided test images and test video clips.
 
